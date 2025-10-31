@@ -7,10 +7,11 @@ This is a simple Python calculator that lets you enter an entire mathematical ex
 
 Supports operations: +, -, *, /, %, ** (power), and parentheses ( )
 
-Evaluates complete expressions such as 3+5*2-4/2
+Evaluates complete expressions
 
 Easy-to-use, beginner-friendly code
 
 Input validation for safety
 
 Repeats calculations until you choose to exit
+
